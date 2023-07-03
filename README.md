@@ -21,4 +21,4 @@ As despesas são representadas pela classe Despesa, que possui propriedades para
 
 O código utiliza estruturas de controle, como loops (while) e condicionais (switch-case), para oferecer interatividade ao usuário e executar as diferentes funcionalidades do programa.
 
-No geral, o código fornece uma base simples para o gerenciamento de finanças pessoais por meio de um programa de console.
+
