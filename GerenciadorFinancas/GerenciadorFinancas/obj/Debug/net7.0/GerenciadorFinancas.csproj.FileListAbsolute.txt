@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\bin\Debug\net7.0\GerenciadorFinancas.exe
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\bin\Debug\net7.0\GerenciadorFinancas.deps.json
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\bin\Debug\net7.0\GerenciadorFinancas.runtimeconfig.json
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\bin\Debug\net7.0\GerenciadorFinancas.dll
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\bin\Debug\net7.0\GerenciadorFinancas.pdb
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\GerenciadorFinancas.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\GerenciadorFinancas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\GerenciadorFinancas.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\GerenciadorFinancas.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\GerenciadorFinancas.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\GerenciadorFinancas.dll
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\refint\GerenciadorFinancas.dll
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\GerenciadorFinancas.pdb
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\GerenciadorFinancas.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Finanças\GerenciadorFinancas\GerenciadorFinancas\obj\Debug\net7.0\ref\GerenciadorFinancas.dll
