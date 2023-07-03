@@ -1,5 +1,5 @@
 # GerenciadorFinancas
-programa de console em C# para gerenciar as finanças pessoais. Ele permite ao usuário registrar despesas, criar orçamentos, gerar relatórios de despesas e obter insights sobre seus gastos.
+Programa de console em C# para gerenciar as finanças pessoais. Ele permite ao usuário registrar despesas, criar orçamentos, gerar relatórios de despesas e obter insights sobre seus gastos.
 
 O programa possui um loop principal que exibe um menu de opções e permite ao usuário selecionar uma opção. As opções disponíveis são:
 1.
